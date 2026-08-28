@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    //declaração de variaveis
+    //declaraÃ§Ã£o de variaveis
     int idade;
     //entrada de dados
     printf("Qual a sua idade? ");
