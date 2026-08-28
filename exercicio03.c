@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 int main() {
-//declaração de variaveis
+//declaraÃ§Ã£o de variaveis
     char senha[50];
     //entrada de dados
     printf("Digite a senha: ");
