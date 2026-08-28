@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main (){
-    //declaração de variaveis
+    //declaraÃ§Ã£o de variaveis
     float lab, av, ef, media;
     //entrada de dados
     printf("DIGITE SUAS NOTAS:\n");
