@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    //declaração de variaveis
+    //declaraÃ§Ã£o de variaveis
     float salario, reajuste;
     //entrada de dados
     printf("Qual e o seu salario? ");
